@@ -46,11 +46,11 @@ div,span,h1,h2,h3,h4,h5,h6,p,blockquote,a,ol,ul,li,figcaption{font: inherit;}sec
     </button>
 </section>
 
-<section class="engine"><a href="http://kurdwork.pro">web templates free download</a></section><section class="header1 cid-qS9PhqUHY9 mbr-fullscreen" id="header1-0">
-    <div class="container">
-        <h1 class="mbr-section-title mbr-fonts-style align-right mbr-bold mbr-white display-1">
+<section class="header1 cid-qS9PhqUHY9 mbr-fullscreen" id="header1-0">
+    <div class="container" style="background: rgba(0, 0, 0, 0.6); padding:90px;">
+        <h1 class="mbr-section-title mbr-fonts-style align-right mbr-bold mbr-white display-1" style="color:#feffff">
             Manufacture Engineering</h1>
-        <h3 class="mbr-section-subtitle mbr-fonts-style align-right mbr-white mbr-light display-2"><strong><em>
+        <h3 class="mbr-section-subtitle mbr-fonts-style align-right mbr-white mbr-light display-2" style="color:#feffff"><strong><em>
             Faculty of Engineering - Koya University</em></strong></h3>
         
     {{--    <div class="mbr-section-btn align-right"><a class="btn btn-md btn-primary display-4" href="https://mobirise.com">Explore</a></div>
