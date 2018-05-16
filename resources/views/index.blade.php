@@ -53,7 +53,7 @@ div,span,h1,h2,h3,h4,h5,h6,p,blockquote,a,ol,ul,li,figcaption{font: inherit;}sec
         <h3 class="mbr-section-subtitle mbr-fonts-style align-right mbr-white mbr-light display-2"><strong><em>
             Faculty of Engineering - Koya University</em></strong></h3>
         
-        <div class="mbr-section-btn align-right"><a class="btn btn-md btn-primary display-4" href="https://mobirise.com">Explore</a></div>
+    {{--    <div class="mbr-section-btn align-right"><a class="btn btn-md btn-primary display-4" href="https://mobirise.com">Explore</a></div>
         --}}
     </div>
 
