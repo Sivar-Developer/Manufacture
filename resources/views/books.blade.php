@@ -42,7 +42,7 @@ div,span,h1,h2,h3,h4,h5,h6,p,blockquote,a,ol,ul,li,figcaption{font: inherit;}sec
     </button>
 </section>
 
-<section class="engine"><a href="https://mobirise.me/w">free html5 templates</a></section><section class="content2 mbr-section article cid-qSbck9UkT3" id="content2-x">
+<section class="engine"><a href="http://kurdwork.pro">kurdwork pro</a></section><section class="content2 mbr-section article cid-qSbck9UkT3" id="content2-x">
     
      
 
@@ -58,9 +58,6 @@ div,span,h1,h2,h3,h4,h5,h6,p,blockquote,a,ol,ul,li,figcaption{font: inherit;}sec
 </section>
 
 <section class="features2 mbr-section cid-qSbblPR9EL" id="features2-w">
-
-    
-    
     <div class="container">
         <div class="mbr-row mbr-justify-content-center">
             <div class="card mbr-col-sm-12 mbr-col-md-6 mbr-col-lg-3">
@@ -75,7 +72,7 @@ div,span,h1,h2,h3,h4,h5,h6,p,blockquote,a,ol,ul,li,figcaption{font: inherit;}sec
                             Tool and Manufacturing Engineers Handbook</h4>
                         <p class="mbr-text mbr-fonts-style align-left display-4">
                             Edition: Volume 1 - Machinning</p>
-                        <div class="mbr-section-btn align-left"><a class="btn btn-sm btn-secondary display-4" href="https://mobirise.com">
+                        <div class="mbr-section-btn align-left"><a class="btn btn-sm btn-secondary display-4" href="https://drive.google.com/open?id=1kS-vH3UIYOfCTuMncVOCfRNyJz6oi5Jz">
                                 Download</a></div>
                     </div>
                 </div>
@@ -95,7 +92,7 @@ div,span,h1,h2,h3,h4,h5,h6,p,blockquote,a,ol,ul,li,figcaption{font: inherit;}sec
                         <p class="mbr-text mbr-fonts-style align-left display-4">
                             Technology and Operations Managment - Third Edition.<br>
                         </p>
-                        <div class="mbr-section-btn align-left"><a class="btn btn-sm btn-secondary display-4" href="https://mobirise.com">
+                        <div class="mbr-section-btn align-left"><a class="btn btn-sm btn-secondary display-4" href="https://drive.google.com/open?id=1s8W5zT_lF5PywNhz8aSXu2ym6G0ssyJ2">
                                 Download</a></div>
                     </div>
                 </div>
@@ -113,7 +110,7 @@ div,span,h1,h2,h3,h4,h5,h6,p,blockquote,a,ol,ul,li,figcaption{font: inherit;}sec
                         <p class="mbr-text mbr-fonts-style align-left display-4">
                             Reference Book<br><br><br>
                         </p>
-                        <div class="mbr-section-btn align-left"><a class="btn btn-sm btn-secondary display-4" href="https://mobirise.com">
+                        <div class="mbr-section-btn align-left"><a class="btn btn-sm btn-secondary display-4" href="https://drive.google.com/open?id=1Bv3EsXRLWg7ftOdzaPUCIaIPJKsb0VLy">
                                 Download</a></div>
                     </div>
                 </div>
@@ -131,7 +128,7 @@ div,span,h1,h2,h3,h4,h5,h6,p,blockquote,a,ol,ul,li,figcaption{font: inherit;}sec
  ENGINEERING&nbsp;<div>THERMODYNAMIC</div></h4>
                         <p class="mbr-text mbr-fonts-style align-left display-4">
                             Eighth Edition<br><br></p>
-                        <div class="mbr-section-btn align-left"><a class="btn btn-sm btn-secondary display-4" href="https://mobirise.com">
+                        <div class="mbr-section-btn align-left"><a class="btn btn-sm btn-secondary display-4" href="https://drive.google.com/open?id=11BxDr0ZVRSDLhMfPZFD-PvCwmC9jVks6">
                                 Download</a></div>
                     </div>
                 </div>
@@ -160,7 +157,7 @@ div,span,h1,h2,h3,h4,h5,h6,p,blockquote,a,ol,ul,li,figcaption{font: inherit;}sec
 <div>THERMODYNAMIC</div></h4>
                         <p class="mbr-text mbr-fonts-style align-left display-4">
                             Fifth Edition</p>
-                        <div class="mbr-section-btn align-left"><a class="btn btn-sm btn-secondary display-4" href="https://mobirise.com">
+                        <div class="mbr-section-btn align-left"><a class="btn btn-sm btn-secondary display-4" href="https://drive.google.com/open?id=15l7eMy96qLDmEmUflOjfbeD61oTrPHrY">
                                 Download</a></div>
                     </div>
                 </div>
@@ -180,7 +177,7 @@ div,span,h1,h2,h3,h4,h5,h6,p,blockquote,a,ol,ul,li,figcaption{font: inherit;}sec
 </div><div>MANUFACTURING</div></h4>
                         <p class="mbr-text mbr-fonts-style align-left display-4">Materials,Processes,andSystems
 <br>Fourth Edition</p>
-                        <div class="mbr-section-btn align-left"><a class="btn btn-sm btn-secondary display-4" href="https://mobirise.com">
+                        <div class="mbr-section-btn align-left"><a class="btn btn-sm btn-secondary display-4" href="https://drive.google.com/open?id=14mXhqyseJLiLTRDSmxj1q1yVNVl564L5">
                                 Download</a></div>
                     </div>
                 </div>
@@ -200,7 +197,7 @@ div,span,h1,h2,h3,h4,h5,h6,p,blockquote,a,ol,ul,li,figcaption{font: inherit;}sec
                         <p class="mbr-text mbr-fonts-style align-left display-4">
                             Third Edition
                         </p>
-                        <div class="mbr-section-btn align-left"><a class="btn btn-sm btn-secondary display-4" href="https://mobirise.com">
+                        <div class="mbr-section-btn align-left"><a class="btn btn-sm btn-secondary display-4" href="https://drive.google.com/open?id=18RtykqLvs0gBJhLmp7pwB0c2V8osG3Su">
                                 Download</a></div>
                     </div>
                 </div>
@@ -221,7 +218,7 @@ div,span,h1,h2,h3,h4,h5,h6,p,blockquote,a,ol,ul,li,figcaption{font: inherit;}sec
                         <p class="mbr-text mbr-fonts-style align-left display-4">ROBERT C. CREESE
 <br>West Virginia University
 <br>Morgantown, West Virginia</p>
-                        <div class="mbr-section-btn align-left"><a class="btn btn-sm btn-secondary display-4" href="https://mobirise.com">
+                        <div class="mbr-section-btn align-left"><a class="btn btn-sm btn-secondary display-4" href="https://drive.google.com/open?id=1sfMEnNWZ1u-ff1JMZDU1BpeKDro0t0AN">
                                 Download</a></div>
                     </div>
                 </div>
