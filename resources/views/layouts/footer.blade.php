@@ -10,11 +10,14 @@
                 <h3 class="mbr-fonts-style group-title mbr-bold display-5">Manufacture Engineering</h3>
                 <div class="items">
                 <p class="item mbr-fonts-style display-7">
-                        About Us
-                    </p><p class="item mbr-fonts-style display-7">
-                        Address</p><p class="item mbr-fonts-style display-7">
-                        Get In Touch
-                    </p></div>
+                    <a href="{{ route('about') }}" class="mbr-white">About Us</a>
+                </p>
+                <p class="item mbr-fonts-style display-7">
+                    <a href="{{ route('job.profile') }}" class="mbr-white">Jobs Profile</a>
+                </p>
+                <p class="item mbr-fonts-style display-7">
+                    <a href="http://koyauniversity.org/" class="mbr-white">Official Site</a>
+                </p></div>
             </div>
             <div class="items-col mbr-col-sm-12 align-right mbr-col-md-4">
                 <h3 class="mbr-fonts-style group-title mbr-bold display-5">Website Managed By:</h3>
