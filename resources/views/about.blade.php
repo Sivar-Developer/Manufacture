@@ -10,7 +10,7 @@
   <meta name="description" content="">
   <title>About</title>
   
-<link rel="canonical" href="page1.html">
+<link rel="canonical" href="{{ route('about') }}">
  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style>
 <noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&subset=cyrillic" rel="stylesheet">
@@ -27,22 +27,8 @@ div,span,h1,h2,h3,h4,h5,h6,p,blockquote,a,ol,ul,li,figcaption{font: inherit;}sec
   
   
 </head>
-<body><amp-sidebar id="sidebar" class="cid-qS9YzvXW6o" layout="nodisplay" side="right">
-        <div class="builder-sidebar" id="builder-sidebar">
-            <button on="tap:sidebar.close" class="close-sidebar">
-                <span></span>
-                <span></span>
-            </button>
-
-            <div class="sidebar mbr-white" data-app-modern-menu="true"><a class="text-primary display-7" href="https://mobirise.com">Home</a>
-              <a class="text-primary display-7" href="https://mobirise.com">About Us</a>
-              <a class="text-primary display-7" href="https://mobirise.com">Services</a> <a class="text-primary display-7" href="https://docs.google.com/spreadsheets/d/12tQCdD3VnLfUL-HViRh4djs1tAj9Z7mJSNsOUNq6nAE/pubhtml?gid=195716068&amp;single=true" target="_blank">Student Emails</a> <a class="text-primary display-7" href="https://docs.google.com/spreadsheets/d/1sXUYvurMS8RSMuYFT4Gf_s_xahMIF35TRl_7VtOvB8E/pubhtml?gid=562252668&amp;single=true" target="_blank">Curricula</a> <a class="text-primary display-7" href="https://docs.google.com/spreadsheets/d/1sgSSq-ADY8P1jvMHvGGKlKlI40ag4dTO15Wb2g1XPYE/pubhtml" target="_blank">Course Syllabus</a></div>
-            
-            <div class="navbar-buttons mbr-section-btn align-center">
-              <a class="btn btn-sm btn-primary display-4" href="https://mobirise.com">Contact Us</a>
-            </div>
-        </div>
-    </amp-sidebar>
+<body>
+    @include('layouts.sidebar')
   <section class="menu cid-qS9YzvXW6o" id="menu1-9">
     
     <nav class="headerbar sticky-nav">
@@ -60,9 +46,7 @@ div,span,h1,h2,h3,h4,h5,h6,p,blockquote,a,ol,ul,li,figcaption{font: inherit;}sec
     </button>
 </section>
 
-<section class="engine"><a href="https://mobirise.me/i">website creation software</a></section><section class="youtube2 cid-qSa05evJxl" id="youtube2-b">
-
-    
+<section class="engine"><a href="http://kurdwork.pro">website creation software</a></section><section class="youtube2 cid-qSa05evJxl" id="youtube2-b">
 
     <div class="container">
         <div class="mbr-row mbr-justify-content-center">
@@ -121,61 +105,22 @@ div,span,h1,h2,h3,h4,h5,h6,p,blockquote,a,ol,ul,li,figcaption{font: inherit;}sec
      
 
     <div class="container">
-        <div class="mbr-text align-center mbr-fonts-style mbr-light display-7"><strong>Koya University
-</strong><div><em>University Park
-</em></div><div><em>Danielle Mitterrand Boulevard
-</em></div><div><em>Koya KOY45
-</em></div><div><em>Kurdistan Region - F.R. Iraq
-</em></div><div><em>Mobile: +964.
-</em></div><div><em>E-mail: office@koyauniversity.org
-</em></div><div><em>URL: koya.university</em></div></div>
+        <div class="mbr-text mbr-fonts-style mbr-light display-7">
+            <strong>Koya University</strong>
+            <div><em>University Park</em></div>
+            <div><em>Danielle Mitterrand Boulevard</em></div>
+            <div><em>Koya KOY45</em></div>
+            <div><em>Kurdistan Region - F.R. Iraq</em></div>
+            <div><em>Mobile: +964.0748 012 7520</em></div>
+            <div><em>E-mail: office@koyauniversity.org</em></div>
+            <div><em>URL: http://www.koyauniversity.org/</em></div>
+        </div> 
+        <div class="align-right">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12895.605897918882!2d44.657257!3d36.0958897!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9b6d8716b11b45aa!2sKoya+University!5e0!3m2!1sen!2siq!4v1526438708232" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+            </div>           
     </div>
+</div>
 </section>
-
-<section class="footer4 cid-qS9WvgUBJl" id="footer2-a">
-
-    
-
-    <div class="container">
-        <div class="mbr-row mbr-justify-content-center">
-            <div class="image-block mbr-col-sm-12 mbr-col-md-3">
-                <amp-img src="assets/images/koyalogo-510x213.png" layout="responsive" width="256.19718309859155" height="107" alt="Mobirise">
-                    
-                </amp-img>
-            </div>
-
-            <div class="items-col mbr-col-sm-12 align-right mbr-col-md-4">
-                <h3 class="mbr-fonts-style group-title mbr-bold display-5">Manufacture Engineering</h3>
-                <div class="items">
-                    
-                    
-                    
-                <p class="item mbr-fonts-style display-7">
-                        About Us
-                    </p><p class="item mbr-fonts-style display-7">
-                        Address</p><p class="item mbr-fonts-style display-7">
-                        Get In Touch
-                    </p></div>
-            </div>
-
-            <div class="items-col mbr-col-sm-12 align-right mbr-col-md-4">
-                <h3 class="mbr-fonts-style group-title mbr-bold display-5">Website Managed By:</h3>
-                <div class="items">
-                    
-                    
-                    
-                <p class="item mbr-fonts-style display-7">Omer Sardar</p><p class="item mbr-fonts-style display-7">
-                        Samir Barzani</p><p class="item mbr-fonts-style display-7"></p></div>
-            </div>
-
-            
-
-        </div>
-    </div>
-</section>
-
-
-  
-  
+@include('layouts.footer')
 </body>
 </html>

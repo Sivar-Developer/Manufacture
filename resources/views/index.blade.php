@@ -27,22 +27,8 @@ div,span,h1,h2,h3,h4,h5,h6,p,blockquote,a,ol,ul,li,figcaption{font: inherit;}sec
   
   
 </head>
-<body><amp-sidebar id="sidebar" class="cid-qS9YzvXW6o" layout="nodisplay" side="right">
-        <div class="builder-sidebar" id="builder-sidebar">
-            <button on="tap:sidebar.close" class="close-sidebar">
-                <span></span>
-                <span></span>
-            </button>
-
-            <div class="sidebar mbr-white" data-app-modern-menu="true"><a class="text-primary display-7" href="{{ route('index') }}">Home</a>
-              <a class="text-primary display-7" href="{{ route('about') }}">About Us</a>
-              <a class="text-primary display-7" href="https://mobirise.com">Services</a> <a class="text-primary display-7" href="https://docs.google.com/spreadsheets/d/12tQCdD3VnLfUL-HViRh4djs1tAj9Z7mJSNsOUNq6nAE/pubhtml?gid=195716068&amp;single=true" target="_blank">Student Emails</a> <a class="text-primary display-7" href="https://docs.google.com/spreadsheets/d/1sXUYvurMS8RSMuYFT4Gf_s_xahMIF35TRl_7VtOvB8E/pubhtml?gid=562252668&amp;single=true" target="_blank">Curricula</a> <a class="text-primary display-7" href="https://docs.google.com/spreadsheets/d/1sgSSq-ADY8P1jvMHvGGKlKlI40ag4dTO15Wb2g1XPYE/pubhtml" target="_blank">Course Syllabus</a></div>
-            
-            <div class="navbar-buttons mbr-section-btn align-center">
-              <a class="btn btn-sm btn-primary display-4" href="https://mobirise.com">Contact Us</a>
-            </div>
-        </div>
-    </amp-sidebar>
+<body>
+    @include('layouts.sidebar')
   <section class="menu cid-qS9YzvXW6o" id="menu1-8">
     
     <nav class="headerbar sticky-nav">
@@ -60,10 +46,7 @@ div,span,h1,h2,h3,h4,h5,h6,p,blockquote,a,ol,ul,li,figcaption{font: inherit;}sec
     </button>
 </section>
 
-<section class="engine"><a href="https://mobirise.me/p">web templates free download</a></section><section class="header1 cid-qS9PhqUHY9 mbr-fullscreen" id="header1-0">
-
-    
-
+<section class="engine"><a href="http://kurdwork.pro">web templates free download</a></section><section class="header1 cid-qS9PhqUHY9 mbr-fullscreen" id="header1-0">
     <div class="container">
         <h1 class="mbr-section-title mbr-fonts-style align-right mbr-bold mbr-white display-1">
             Manufacture Engineering</h1>
@@ -71,6 +54,7 @@ div,span,h1,h2,h3,h4,h5,h6,p,blockquote,a,ol,ul,li,figcaption{font: inherit;}sec
             Faculty of Engineering - Koya University</em></strong></h3>
         
         <div class="mbr-section-btn align-right"><a class="btn btn-md btn-primary display-4" href="https://mobirise.com">Explore</a></div>
+        --}}
     </div>
 
 </section>
