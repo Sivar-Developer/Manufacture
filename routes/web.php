@@ -23,6 +23,10 @@ Route::get('/jobs-profile', function () {
     return view('job');
 })->name('job.profile');
 
+Route::get('/ebooks', function () {
+    return view('books');
+})->name('books');
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
