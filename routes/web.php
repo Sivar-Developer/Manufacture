@@ -19,6 +19,10 @@ Route::get('/about', function () {
     return view('about');
 })->name('about');
 
+Route::get('/jobs-profile', function () {
+    return view('job');
+})->name('job.profile');
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
